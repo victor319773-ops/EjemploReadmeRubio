@@ -33,9 +33,9 @@
 3. Cierre conclusión FODA de proyecto y materia
 
 
-<span style="color: red;">**ENTREGABLES**</span> Documentacion con fases y actividades del proyecto (imprimir pantallas)
-<span style="color: orange;">**ENTREGABLES**</span> Proyecto enlase de HITHUB proyecto (imprimir pantallas)
-<span style="color: blue;">**ENTREGABLES**</span> Archivos extra y anexos
+<span style="color: red;">**ENTREGABLES** Documentacion con fases y actividades del proyecto (imprimir pantallas)</span>
+<span style="color: orange;">**ENTREGABLES** Proyecto enlase de HITHUB proyecto (imprimir pantallas)</span>
+<span style="color: blue;">**ENTREGABLES**Archivos extra y anexos</span>
 
 
 
