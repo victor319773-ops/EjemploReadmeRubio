@@ -38,13 +38,13 @@
 <span style="color: blue;">**ENTREGABLES**Archivos extra y anexos</span>
 
 
-## 🟠 **ENTREGABLES**
-- Proyecto enlace de GitHub (imprimir pantallas)
+![ENTREGABLES EXTRA](https://img.shields.io/badge/ENTREGABLES-EXTRA-green?style=for-the-badge)
+- Material adicional / evidencias
 
-## 🔵 **ENTREGABLES**
+![ENTREGABLES ANEXOS](https://img.shields.io/badge/ENTREGABLES-ANEXOS-blue?style=for-the-badge)
 - Archivos extra y anexos
 
-## 🔵 **ENTREGABLES**
-- Archivos extra y anexos
+![ENTREGABLES EXTRA](https://img.shields.io/badge/ENTREGABLES-EXTRA-green?style=for-the-badge)
+- Material adicional / evidencias
 
 
