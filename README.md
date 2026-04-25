@@ -10,10 +10,10 @@
 *   ** ** Estandar internacional IEEE 1992-2022**
 
 ###  **  FASE I planeacion de software **
-1.1 Problemática - introducción
-1.2 Objetivo general  
-1.3 Alcance (Modulos 3) Incluye y excluye
-1.4 Programa de tiempo gantProject (Actividades y tiempos)
+1 Problemática - introducción
+1 Objetivo general  
+1 Alcance (Modulos 3) Incluye y excluye
+1 Programa de tiempo gantProject (Actividades y tiempos)
 
 
 ###  **  FASE II analisis de software **
