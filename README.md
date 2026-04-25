@@ -38,6 +38,13 @@
 <span style="color: blue;">**ENTREGABLES**Archivos extra y anexos</span>
 
 
+## 🟠 **ENTREGABLES**
+- Proyecto enlace de GitHub (imprimir pantallas)
 
+## 🔵 **ENTREGABLES**
+- Archivos extra y anexos
+
+## 🔵 **ENTREGABLES**
+- Archivos extra y anexos
 
 
