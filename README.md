@@ -33,14 +33,11 @@
 3. Cierre conclusión FODA de proyecto y materia
 
 
-<span style="color: red;">**ENTREGABLES** Documentacion con fases y actividades del proyecto (imprimir pantallas)</span>
-<span style="color: orange;">**ENTREGABLES** Proyecto enlase de HITHUB proyecto (imprimir pantallas)</span>
-<span style="color: blue;">**ENTREGABLES**Archivos extra y anexos</span>
 
 
-![ENTREGABLES EXTRA](https://img.shields.io/badge/ENTREGABLES-EXTRA-green?style=for-the-badge)
-- Material adicional / evidencias
-
+![ENTREGABLES PROYECTO](https://img.shields.io/badge/ENTREGABLES-PROYECTO-orange?style=for-the-badge)
+- Proyecto enlace de GitHub (imprimir pantallas)
+- 
 ![ENTREGABLES ANEXOS](https://img.shields.io/badge/ENTREGABLES-ANEXOS-blue?style=for-the-badge)
 - Archivos extra y anexos
 
